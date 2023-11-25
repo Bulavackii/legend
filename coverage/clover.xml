@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1700927877124" clover="3.2.0">
+  <project timestamp="1700927877124" name="All files">
+    <metrics statements="27" coveredstatements="26" conditionals="12" coveredconditionals="11" methods="7" coveredmethods="7" elements="46" coveredelements="44" complexity="0" loc="27" ncloc="27" packages="1" files="7" classes="7"/>
+    <file name="app.js" path="C:\Users\dobul\Desktop\legend\src\js\app.js">
+      <metrics statements="9" coveredstatements="8" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="4" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="9" count="7" type="cond" truecount="1" falsecount="1"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="13" count="7" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+    </file>
+    <file name="typeBowman.js" path="C:\Users\dobul\Desktop\legend\src\js\typeBowman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeDaemon.js" path="C:\Users\dobul\Desktop\legend\src\js\typeDaemon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeMagician.js" path="C:\Users\dobul\Desktop\legend\src\js\typeMagician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeSwordsman.js" path="C:\Users\dobul\Desktop\legend\src\js\typeSwordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeUndead.js" path="C:\Users\dobul\Desktop\legend\src\js\typeUndead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeZombie.js" path="C:\Users\dobul\Desktop\legend\src\js\typeZombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
